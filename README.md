@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartiniLima
+- 👋 Hi, I’m Fabiana Martini
 - 👀 I'm interested in learning to program in order to be hired, I'm also willing to get into possible projects.
 - 🌱 I'm currently learning about programming focused on cryptos and tokens, Digital Marketing for a project of mine. And java script to get a possible job hiring.
 - 💞️ I'm looking to collaborate on new way to make financial income to interested people.
