@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabiana Martini
-- 👀 I'm interested in learning to program in order to be hired, I'm also willing to get into possible projects.
-- 🌱 I'm currently learning about programming focused on cryptos and tokens, Digital Marketing for a project of mine. And JavaScript to get a possible job hiring.
-- 💞️ I'm looking to collaborate on new way to make financial income to interested people.
+- 👀 I'm learning to program in the BR Programmer course to be able to work in the programming market.
+- 🌱 I'm currently learning about versioning, HTML5, CSS3 e JavaScript.
+- 💞️ I'm looking to collaborate on projects that generate revenue for third parties.
 - 📫 How to reach me 071 99355-7662 Telegram
 
 <!---
