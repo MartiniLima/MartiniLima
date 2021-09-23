@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Fabiana Martini
-- 👀 I'm learning to program in the BR Programmer course to be able to work in the programming market.
-- 🌱 I'm currently learning about versioning, HTML5, CSS3 e JavaScript.
-- 💞️ I'm looking to collaborate on projects that generate revenue for third parties.
-- 📫 How to reach me 071 99355-7662 Telegram
+Olá, sou a Fabiana Martini
+Estou no ultimo semestre de Analises de Sistemas, e faço o curso do Programador Br para aprimorar meus conhecimentos. 
+No momento estou vendo HTML, CSS e JavaScript.
+Estou a procura de uma oportunidade para colocar meus conhecimentos em pratica.
+Pode me contatar pelo Telegram 071 99355-7662.
 
 <!---
 MartiniLima/MartiniLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
