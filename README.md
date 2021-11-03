@@ -1,8 +1,8 @@
 Olá, sou a Fabiana Martini
-Estou no ultimo semestre de Analises de Sistemas, e faço o curso do Programador Br para aprimorar meus conhecimentos. 
-No momento estou vendo HTML, CSS e JavaScript.
-Estou a procura de uma oportunidade para colocar meus conhecimentos em pratica.
-Pode me contatar pelo Telegram 071 99355-7662.
+Estudei Analise de Sistemas na UNIFACS, faço o curso do Programador Br para aprimorar meus conhecimentos. 
+Desenvolvo sites como Freelancer. 
+Estou a procura da minha primeira oportunidade de trabalho.
+Pode me contatar pelo Numero: 071 99355-7662, ou e-mail: martinifabi996@gmail.com.
 
 <!---
 MartiniLima/MartiniLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
